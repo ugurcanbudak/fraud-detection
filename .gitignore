@@ -1,0 +1,18 @@
+# Ignore data archive
+data/creditcard.7z
+
+# Ignore other potential files and directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.idea/
+.vscode/
+*.swp
+.DS_Store
